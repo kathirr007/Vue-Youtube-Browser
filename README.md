@@ -1,5 +1,7 @@
 # youtube-video-browser
 
+[![Build Status](https://travis-ci.org/kathirr007/Vue-Youtube-Browser.svg?branch=master)](https://travis-ci.org/kathirr007/Vue-Youtube-Browser)
+
 ## Project setup
 ```
 npm install
